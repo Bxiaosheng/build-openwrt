@@ -51,3 +51,4 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 #
 # ------------------------------- Other ends -------------------------------
 
+git clone https://github.com/jerrykuku/luci-app-ttnode.git package/lean/luci-app-ttnode
