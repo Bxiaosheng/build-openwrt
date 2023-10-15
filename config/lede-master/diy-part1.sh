@@ -11,3 +11,6 @@
 
 # other
 # rm -rf package/lean/{samba4,luci-app-samba4,luci-app-ttyd}
+echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
+git clone https://github.com/linkease/istore.git package/istore
+git clone https://github.com/linkease/istore-ui.git package/istore-ui
